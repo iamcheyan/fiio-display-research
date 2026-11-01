@@ -1,0 +1,19 @@
+# Device data and firmware must never be added to this public documentation repo.
+*.img
+*.bin
+*.zip
+*.apk
+*.tar
+*.gz
+*.7z
+*.xz
+*.log
+*.pcap
+*.key
+*.pem
+*.jks
+*backup*
+*serial*
+*persist*
+*modemst*
+*fsg*
